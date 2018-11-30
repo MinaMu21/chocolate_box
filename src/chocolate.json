@@ -1,0 +1,27 @@
+[{
+    "id": "1",
+    "name": "Black",
+    "color": "#2a1b0e"
+},
+{
+    "id": "2",
+    "name": "Milk",
+    "color": "#825a39"
+},
+{
+    "id": "3",
+    "name": "Pistachio",
+    "color": "#94ac54"
+},
+{
+    "id": "4",
+    "name": "Raspberry",
+    "color": "#ce5871"
+},
+{
+    "id": "5",
+    "name": "White",
+    "color": "#FFFACD"
+}
+
+]

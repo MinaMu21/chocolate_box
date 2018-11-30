@@ -1,0 +1,19 @@
+.chocolate-item{
+    list-style-type: none;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-top: 10px;
+    font-family: cursive;
+    font-size: 20px;
+    border: 5px solid rgba(15, 7, 1, 0.748);
+    background-color: rgba(94, 43, 4);
+    border-radius: 20px;
+    color: rgba(226, 174, 43, 0.974);
+}
+
+.chocolate-item button{
+    border-color: rgba(15, 7, 1, 0.748);
+    background-color: rgba(15, 7, 1, 0.748);
+    color:rgba(226, 174, 43, 0.974);
+}
+
